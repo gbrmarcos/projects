@@ -1,12 +1,11 @@
-/* Você é um analista de dados e foi requerido que você explorasse esta base de dados de vendas de imóveis em Nashville, Tennessee, EUA. Porém, ao verificar as primeiras 1000
-linhas da base, você constatou que precisaria realizar um serviço à parte de limpeza dos dados.
+/* Você é um analista de dados e foi requerido que você explorasse esta base de dados de vendas de imóveis em Nashville, Tennessee, EUA. Porém, ao verificar as
+primeiras 1000 linhas da base, você constatou que precisaria realizar um serviço à parte de limpeza dos dados.
 
 Seu objetivo por tanto é realizar uma limpeza e transformação dos dados para aí sim começarem os trabalhos de exploração e descrição dos dados.
-*/
 
-/* Link para o Dataset: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx */
+Link para o Dataset: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx 
 
-/* Iniciamos o projeto clicando com o botão direito na tabela NashvilleHouse e escolhendo a opção "Selecionar as primeiras 1000 linhas". Ao explorar os atributos e registros
+Iniciamos o projeto clicando com o botão direito na tabela NashvilleHouse e escolhendo a opção "Selecionar as primeiras 1000 linhas". Ao explorar os atributos e registros
 da tabela, foram constatados os seguintes problemas:
 1. A coluna SaleDate está com um formato que tem além da data, tem hora, minuto, segundo e milissegundo, que são informações desnecessárias para nosso proposito.
 2. Na coluna PropertyAddress, as informações do endereço se misturam com o nome da cidade (no caso, Goodlettsville), vamos separar estas informações
