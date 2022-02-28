@@ -1,4 +1,4 @@
-<h3> Oi, eu sou Marcos Gabriel, sou formado em Ciêncais Contábeis, tenho 23 anos e atualmente estudo Ciência de Dados visando a primeira oportunidade em Business Intelligence. <h3>
+<h3> Oi, eu sou Marcos Gabriel, sou formado em Ciências Contábeis, tenho 23 anos e atualmente estudo Ciência de Dados visando a primeira oportunidade em Business Intelligence. <h3>
 
 Após anos de experiência com Excel e um ano atuando na contabilidade, senti que precisava dar um passo à frente, então passei a me interessar pela Ciência de Dados e a estudo desde então.
 
